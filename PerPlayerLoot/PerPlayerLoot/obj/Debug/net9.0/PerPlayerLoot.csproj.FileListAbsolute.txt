@@ -1,0 +1,66 @@
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\HttpServer.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\ref\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\HttpServer.dll
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\ref\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\HttpServer.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net9.0\ref\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\HttpServer.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Chatgpts\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\ref\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\HttpServer.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\2026_06_10_PPL\Modification_2026_06_10\PerPlayerLootT6.1-main\Aktuelle Modification_2026_06_21\PerPlayerLoot-master - Kopie\PerPlayerLoot\obj\Debug\net9.0\ref\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\bin\Debug\net9.0\HttpServer.dll
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\bin\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PPL_2026_07_25\PerPlayerLoot_Final\PerPlayerLoot\obj\Debug\net9.0\ref\PerPlayerLoot.dll

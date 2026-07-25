@@ -1,0 +1,11 @@
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net6.0\HttpServer.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net6.0\PerPlayerLoot.deps.json
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net6.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\bin\Debug\net6.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\PerPlayerLoot.csproj.AssemblyReference.cache
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\PerPlayerLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\PerPlayerLoot.csproj.CoreCompileInputs.cache
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\refint\PerPlayerLoot.dll
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\PerPlayerLoot.pdb
+C:\Users\Habl\Desktop\PerPlayerLoot-master\PerPlayerLoot\obj\Debug\net6.0\ref\PerPlayerLoot.dll
