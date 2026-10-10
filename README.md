@@ -1,5 +1,13 @@
 ![Per Player Loot](.github/PerPlayerLoot.png)
 
+
+
+Update: Tested, looks like it works with terraria V1.4.5.8 Tshock server Version 6.2.1
+
+
+
+
+
 # Terraria Per Player Loot
 A [TShock](https://github.com/Pryaxis/TShock) server plugin which makes
 naturally spawned loot chests have a separate inventory for each player on your
